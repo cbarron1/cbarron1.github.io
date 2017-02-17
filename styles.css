@@ -7,6 +7,10 @@ img {
     max-width: 100%;
 }
 
+.navbar .container {
+    max-width: 90%
+}
+
 #cover {
     background: url(img/TSTR_gray.png) center no-repeat;
     background-size: cover;
@@ -19,7 +23,7 @@ img {
 #cover-caption {
     font-size: 1.4rem;
     font-weight: 200;
-    max-width: 60rem;
+    max-width: 70rem;
     margin: 0 auto;
     text-align: center;
 }
